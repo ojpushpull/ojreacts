@@ -1,7 +1,7 @@
-const logotext = "JOHN";
+const logotext = "Okera";
 const meta = {
-    title: "John Doe",
-    description: "I’m John Doe data scientist _ Full stack devloper,currently working in Berlin",
+    title: "Okera Johnson",
+    description: "Okera Johnson _ Full stack developer, ",
 };
 
 const introdata = {
